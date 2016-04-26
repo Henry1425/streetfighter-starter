@@ -35,6 +35,7 @@ body {
 
 .main .ryu .ryu-still {
     background-image: url('../images/ryu-standing-still.png');
+    display: block;
 }
 
 .main .ryu .ryu-throwing {
