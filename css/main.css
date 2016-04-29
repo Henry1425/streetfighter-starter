@@ -1,3 +1,7 @@
+@font-face{
+	font-family: comical;
+	src: url('../fonts/animeace2_reg.otf');
+}
 body {
     background-color: black;
 }
@@ -8,7 +12,7 @@ body {
     min-width: 1200px;
     padding-left: 100px;
     min-height: 500px;
-    position: relative;    
+    position: relative;
 }
 
 .main .ryu {
